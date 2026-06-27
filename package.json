@@ -1,0 +1,25 @@
+{
+  "name": "adobe-stock-checker-lm",
+  "version": "1.0.0",
+  "description": "Adobe Stock Image Analyzer - LM Studio, 100% Offline & Free",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "adobe-stock",
+    "image-analysis",
+    "lm-studio",
+    "offline",
+    "free"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
